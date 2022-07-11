@@ -11,9 +11,9 @@ Pregunta 2: Lenguaje escogido Kotlin
 2) Ingresar el comando make
 3) Ingresar el siguiente comando junto con el número de bloques ./bool.sh 
 4) Aparecerá un pseudo-terminal "ACCION>" esperando por las acciones definidas en el problema
-    4.1) EVAL <orden> <expresion>
-    4.2) MOSTRAR <orden> <expresion>
-    4.3) SALIR
+    a) EVAL <orden> <expresion>
+    b) MOSTRAR <orden> <expresion>
+    c) SALIR
 
 Pregunta 4: Lenguaje escogido Kotlin
 
@@ -31,8 +31,8 @@ Pregunta 5: Lenguaje escogido Kotlin
 2) Ingresar el comando make
 3) Ingresar el siguiente comando junto con el número de bloques ./datos.sh
 4) Aparecerá un pseudo-terminal "ACCION>" esperando por las acciones definidas en el problema
-    4.1) ATOMICO <nombre> <representacion> <alineacion>
-    4.2) STRUCT <nombre> <[tipo]>
-    4.3) UNION <nombre> <[tipo]> 
-    4.4) DESCRIBIR <nombre>
-    4.5) SALIR
+    a) ATOMICO <nombre> <representacion> <alineacion>
+    b) STRUCT <nombre> <[tipo]>
+    c) UNION <nombre> <[tipo]> 
+    d) DESCRIBIR <nombre>
+    e) SALIR
